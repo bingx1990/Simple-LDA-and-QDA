@@ -1,4 +1,4 @@
-# Simple-LDA-and-QDA
+# Generative Discriminant Analysis
 LDA and QDA are implemented in Python, including multi-dimension and multi-label. Other extended versions that are covered are Diagonal Discriminant Analysis, Regularized Discriminant Analysis and Reduced Rank Discriminant Analyisi.
 
 The "sample_dataset.py" generates the dataset with the required sample size, feature dimension and number per group.
